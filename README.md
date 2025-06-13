@@ -22,4 +22,6 @@ It is critical to acknowledge the inherent risks involved in participating in su
 
 <a href="http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion"><img src="/vendor/see.webp" alt="image" style="max-width: 100%;"></a>  <a href="http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion"><img src="/vendor/accent.webp" alt="image" style="max-width: 100%;"></a>
 
-Update:  Wednesday 11 June 2025 url is now available online
+
+
+Update: Link is now responsive and live
