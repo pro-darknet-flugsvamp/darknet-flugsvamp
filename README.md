@@ -26,4 +26,6 @@ It is critical to acknowledge the inherent risks involved in participating in su
 
 
 
-Update: link is back up and running
+
+
+Update: External URLs
