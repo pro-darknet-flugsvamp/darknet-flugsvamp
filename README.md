@@ -32,4 +32,6 @@ It is critical to acknowledge the inherent risks involved in participating in su
 
 
 
-Update:  06/23/2025 08-19 url is now functioning and operational
+
+
+Update:  Tuesday 24 June 2025
